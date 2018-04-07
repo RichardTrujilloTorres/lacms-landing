@@ -121,12 +121,13 @@ A barebones CMS based upon a RESTful API. Meant to be reuse with easy.
             --}}
 
 
-
-            <div class="section section-contacts">
+            <div class="section section-contacts" id="why">
                 <div class="row">
                     <div class="col-md-8 ml-auto mr-auto">
-                        <h2 class="text-center title">Work with us</h2>
-                        <h4 class="text-center description">Divide details about your product or agency work into parts. Write a few lines about each one and contact us about any further collaboration. We will responde get back to you in a couple of hours.</h4>
+                        <h2 class="text-center title">Why</h2>
+                        <h4 class="text-center description">To serve as a complementary package to small to middle size projects or as basis for further developments. Either way, to save you time and effort.</h4>
+
+                        {{--
                         <form class="contact-form">
                             <div class="row">
                                 <div class="col-md-6">
