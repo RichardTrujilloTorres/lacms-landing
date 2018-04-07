@@ -125,7 +125,7 @@ A barebones CMS based upon a RESTful API. Meant to be reuse with easy.
                 <div class="row">
                     <div class="col-md-8 ml-auto mr-auto">
                         <h2 class="text-center title">Why</h2>
-                        <h4 class="text-center description">To serve as a complementary package to small to middle size projects or as basis for further developments. Either way, to save you time and effort.</h4>
+                        <h4 class="text-center description">To serve as a complementary package from small to middle size projects or as basis for further developments. Either way, to save you time and effort.</h4>
 
                     </div>
                 </div>
