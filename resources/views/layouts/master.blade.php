@@ -22,6 +22,11 @@
     <!-- CSS Just for demo purpose, don't include it in your project -->
     <link href="../assets/assets-for-demo/demo.css" rel="stylesheet" />
     <!-- iframe removal -->
+
+
+    <!-- Google ReCaptcha -->
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+
 </head>
 
 <body class="landing-page ">
