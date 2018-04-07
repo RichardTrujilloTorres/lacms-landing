@@ -127,36 +127,6 @@ A barebones CMS based upon a RESTful API. Meant to be reuse with easy.
                         <h2 class="text-center title">Why</h2>
                         <h4 class="text-center description">To serve as a complementary package to small to middle size projects or as basis for further developments. Either way, to save you time and effort.</h4>
 
-                        {{--
-                        <form class="contact-form">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="form-group">
-                                        <label class="bmd-label-floating">Your Name</label>
-                                        <input type="email" class="form-control">
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="form-group">
-                                        <label class="bmd-label-floating">Your Email</label>
-                                        <input type="email" class="form-control">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="form-group">
-                                <label for="exampleMessage" class="bmd-label-floating">Your Message</label>
-                                <textarea type="email" class="form-control" rows="4" id="exampleMessage"></textarea>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-4 ml-auto mr-auto text-center">
-                                    <button class="btn btn-primary btn-raised">
-                                        Send Message
-                                    </button>
-                                </div>
-                            </div>
-                        </form>
-                        --}}
-
                     </div>
                 </div>
             </div>
