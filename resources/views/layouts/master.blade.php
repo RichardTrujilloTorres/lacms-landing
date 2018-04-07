@@ -52,7 +52,7 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="javascript:void(0)" onclick="scrollToDownload()">
+                        <a class="nav-link" href="https://github.com/RichardTrujilloTorres/lacms-api/archive/master.zip" onclick="scrollToDownload()">
                             <i class="material-icons">cloud_download</i> Download
                         </a>
                     </li>
