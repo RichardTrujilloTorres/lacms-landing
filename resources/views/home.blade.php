@@ -3,7 +3,7 @@
 @section('content')
     <div class="main main-raised">
         <div class="container">
-            <div class="section text-center" id="about">
+            <div class="section text-center" id="what">
                 <div class="row">
                     <div class="col-md-8 ml-auto mr-auto">
                         <h2 class="title">What</h2>
