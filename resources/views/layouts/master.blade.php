@@ -107,23 +107,18 @@
             <nav class="pull-left">
                 <ul>
                     <li>
-                        <a href="{{ url('/') }}">
-                            Home
+                        <a href="#what">
+                            What
                         </a>
                     </li>
                     <li>
-                        <a href="#about">
-                            About
+                        <a href="#why">
+                            Why
                         </a>
                     </li>
                     <li>
-                        <a href="http://blog.creative-tim.com">
-                            Blog
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://www.creative-tim.com/license">
-                            Licenses
+                        <a href="#when">
+                            When
                         </a>
                     </li>
                 </ul>
@@ -132,8 +127,8 @@
                 &copy;
                 <script>
                     document.write(new Date().getFullYear())
-                </script>, made with <i class="material-icons">favorite</i> by
-                <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a> for a better web.
+                </script> 
+                <a href="mailto:richard.trujillo.torres@gmail.com" target="_blank">Richard Trujillo Torres</a>
             </div>
         </div>
     </footer>
