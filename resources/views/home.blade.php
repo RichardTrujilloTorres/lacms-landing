@@ -142,7 +142,7 @@ A barebones CMS based upon a RESTful API. Meant to be reuse with easy.
             </div>
 
 
-            {{--<div class="section section-contacts" id="contact">
+            <div class="section section-contacts" id="contact">
                 <div class="row">
                     <div class="col-md-8 ml-auto mr-auto">
                         <h2 class="text-center title">Tell me what you think!</h2>
@@ -214,14 +214,14 @@ A barebones CMS based upon a RESTful API. Meant to be reuse with easy.
 
                             <div class="row">
                                 <div class="col-md-4 ml-auto mr-auto text-center">
-                                    <p>Field marked with an asterisk are mandatory.</p>
+                                    <p>Field marked with an asterisk are required.</p>
                                 </div>
                             </div>
                         </form>
 
                     </div>
                 </div>
-            </div>--}}
+            </div>
 
 
 
